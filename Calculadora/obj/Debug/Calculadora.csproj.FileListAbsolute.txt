@@ -1,0 +1,10 @@
+C:\Users\Ti\Documents\ETEC Poá\DS\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Ti\Documents\ETEC Poá\DS\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Ti\Documents\ETEC Poá\DS\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Ti\Documents\ETEC Poá\DS\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Ti\Documents\ETEC Poá\DS\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+C:\Users\Ti\Documents\ETEC Poá\DS\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Ti\Documents\ETEC Poá\DS\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Ti\Documents\ETEC Poá\DS\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Ti\Documents\ETEC Poá\DS\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Ti\Documents\ETEC Poá\DS\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
